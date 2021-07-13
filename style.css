@@ -4,6 +4,7 @@ body {
 
 .terrain_de_jeu{
     margin: 2em auto;
+    width: 650px;
 }
 .square {
     width: 50px;
