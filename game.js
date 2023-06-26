@@ -106,6 +106,9 @@ var game = {
             game.burgerX = newX;
             game.burgerY = newY;
         }
+       if(game.burgerX == game.goalX && game.burgerY == game.goalY ){
+            alert('Bravo !');
+       }  
     }
 };
 
